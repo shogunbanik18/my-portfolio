@@ -1,0 +1,4 @@
+*.log
+abc/
+# error.log
+# request.log
