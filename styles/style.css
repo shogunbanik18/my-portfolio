@@ -1,0 +1,42 @@
+body{
+    background-color: #dae4ee;
+}
+
+.home{
+    height: 100vh;
+    background: linear-gradient(rgba(0,0,0,0.8),rgba(80, 79, 79, 0.1)),url('../images/img3.jpg');
+    background-size: cover;
+}
+
+.intro{
+    color:whitesmoke;
+    padding: 94px 272px;
+    padding-top: 52px;
+    /* justify-content: center; */
+    text-align: justify;
+    font-size: 20px;
+    font-weight: 300;
+
+    /* padding: ; */
+    /* text-align: justify; */
+}
+
+#name{
+    font-size: 50px;
+    /* padding-left: 150px; */
+}
+#stud{
+    font-weight: 350;
+}
+#para1{
+    background: linear-gradient(
+        45deg
+        , rgba(0,0,0,0.9), transparenyt)
+    /* padding-right: 240px; */
+    font-weight: 200
+}
+p {
+    font-weight: 350;
+    margin-top: 0;
+    margin-bottom: 1rem;
+}
